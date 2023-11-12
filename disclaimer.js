@@ -1,11 +1,11 @@
 const localKeyName = 'agreed18';
 const strings = {
     welcome: 'Tunggu dulu!',
-    site_contains_adult_materials: 'Hayo! Udah cukup umur belum?',
-    acknowledge_confirm_majority: 'Untuk melanjutkan, kamu harus berusia setidaknya <span class="underline">20</span>tahun.',
-    button_over18: 'Udah dong',
-    button_under18: 'Belum nih',
-    footer_imprint_paragraph: 'Untuk tujuan edukasi, orang berusia di bawah umur harus didampingi orang dewasa.',
+    site_contains_adult_materials: 'Konten ini mengandung hal-hal yang mungkin menyimpang, sangat tabu, eksplisit atau vulgar bagi sebagian orang.',
+    acknowledge_confirm_majority: 'Masih pengen lanjut?',
+    button_over18: 'Lanjut',
+    button_under18: 'Gak deh',
+    footer_imprint_paragraph: 'Untuk melanjutkan, kamu mungkin harus berusia setidaknya <span class="underline">20</span> tahun.',
 };
 
 class Disclaimer {
